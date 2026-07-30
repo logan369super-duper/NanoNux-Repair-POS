@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#FFFFFF"/>
+  <text x="70" y="300" font-family="DejaVu Sans" font-weight="900" font-size="210" fill="#000000" letter-spacing="2">NANO</text>
+  <text x="450" y="550" font-family="DejaVu Sans" font-weight="900" font-size="210" fill="#000000" letter-spacing="2">NUX</text>
+  <rect x="70" y="660" width="884" height="260" rx="60" ry="60" fill="#000000"/>
+  <text x="512" y="835" font-family="DejaVu Sans" font-weight="bold" font-size="140" fill="#FFFFFF" text-anchor="middle">Repair POS</text>
+</svg>

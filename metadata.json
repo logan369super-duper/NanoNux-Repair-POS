@@ -1,0 +1,6 @@
+{
+  "name": "NanoNux Repair POS",
+  "description": "Universal Repair & Service Shop POS app with Room DB, repair ticket lifecycle, inventory management, ESC/POS receipts, role-based access, and adaptive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Smartphone Body (Centered in 66dp safe zone) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,24H70C74.42,24 78,27.58 78,32V76C78,80.42 74.42,84 70,84H38C33.58,84 30,80.42 30,76V32C30,27.58 33.58,24 38,24Z" />
+
+    <!-- Phone Screen Area -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M34,32H74V72H34V32Z" />
+
+    <!-- Speaker Bar -->
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M48,27H60V29H48V27Z" />
+
+    <!-- Home Button / Indicator Circle -->
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M54,78C55.66,78 57,76.66 57,75C57,73.34 55.66,72 54,72C52.34,72 51,73.34 51,75C51,76.66 52.34,78 54,78Z" />
+
+    <!-- Wrench Tool Overlay across screen (Golden Yellow Accent) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M64.5,38.5C62.8,36.8 60.3,36.2 58,36.8L62,40.8L40.8,62L36.8,58C36.2,60.3 36.8,62.8 38.5,64.5C40.6,66.6 43.7,67 46.2,65.8L61.2,50.8C62.4,48.3 62,45.2 59.9,43.1L64.5,38.5Z" />
+
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M66,37C64.5,35.5 62.2,35 60,35.5L63.5,39L43.5,59L40,55.5C39.5,57.7 40,60 41.5,61.5C43.5,63.5 46.5,63.8 48.8,62.5L62.5,48.8C63.8,46.5 63.5,43.5 61.5,41.5L66,37Z" />
+
+</vector>
